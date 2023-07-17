@@ -58,3 +58,19 @@ public class ArrayStatistics {
         }
     }
 }
+
+/*output:
+
+Sum: 210
+Average: 26.25
+Min: 10
+Max: 50
+Median: 45
+Frequency of each number in the array:
+10: 2
+20: 2
+30: 2
+40: 1
+50: 1
+
+*/    
